@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="n/1`[0V{wJ:?PREL_{J4">mySprite</variable><variable type="KIND_SpriteKind" id="nD)=k#1m2|Y~jml#3DDe">Player</variable><variable type="KIND_SpriteKind" id="a8}SX/tlA6ng#ZWWjgzC">Projectile</variable><variable type="KIND_SpriteKind" id="1z4!+_f_0*lWtgA:1#XA">Food</variable><variable type="KIND_SpriteKind" id="OvCeV*!FcB4%Cf{Eg;[4">Enemy</variable></variables><block type="pxt-on-start" id="|2DBZL`e8,6@Tl9G$@|z" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="/2E3fhZW)0ZT%5:O#-E9"><value name="img"><shadow type="background_image_picker" id=".7w8K:65FS@M!:f^_55;"><field name="img">assets.image`myImage0`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages.image2"}}</data></shadow></value><next><block type="variables_set" id="Cy{QOJHvh300}yN}zS1l"><field name="VAR" id="n/1`[0V{wJ:?PREL_{J4">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="~NRl]]k+8L,4y~Mc/8^T"><value name="img"><shadow type="screen_image_picker" id="Aru(]^6VhcEFhzdb:Y[F"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`</field><data>{"commentRefs":[],"fieldData":{"img":"Aru(]^6VhcEFhzdb:Y[F"}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="P~*b5w}G[6,C8x92x:++"><field name="MEMBER">Player</field></shadow></value></block></value></block></next></block></statement></block></xml>
